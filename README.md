@@ -115,7 +115,7 @@ Execute the program
 ```
 
 # OUPUT
-![OUTPUT]("C:\Users\SEC\edm\WEB\out.png")
+![OUTPUT]("out.png")
 
 # RESULT
 The Program for creating TimeTable is completed successfully.

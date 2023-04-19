@@ -115,7 +115,7 @@ Execute the program
 ```
 
 # OUPUT
+![out1](https://user-images.githubusercontent.com/121292280/233131832-041bad8e-e90e-4ea0-99a7-e08a78fe8bc1.png)
 
-![out](https://user-images.githubusercontent.com/121292280/233130601-93bf4c28-b431-44f9-8321-bcd754d66108.png)
 # RESULT
 The Program for creating TimeTable is completed successfully.

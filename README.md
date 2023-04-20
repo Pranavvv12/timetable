@@ -114,7 +114,7 @@ Execute the program
 </html>
 ```
 
-# OUPUT
+# OUTPUT
 ![out1](https://user-images.githubusercontent.com/121292280/233131832-041bad8e-e90e-4ea0-99a7-e08a78fe8bc1.png)
 
 # RESULT
